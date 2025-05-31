@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio - Lucas Furlani
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+[English](#english) | [Português](#português)
+
+</div>
+
+## English
+
+Personal portfolio website built with modern web technologies, featuring a responsive design, dark/light theme, and GitHub integration.
+
+### 🚀 Technologies
+
+- [Next.js 14](https://nextjs.org/) - React framework for production
+- [React](https://reactjs.org/) - JavaScript library for user interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types
+- [next-themes](https://github.com/pacocoursey/next-themes) - Theme management
+
+### ✨ Features
+
+- Responsive design for all devices
+- Dark/Light theme with smooth transitions
+- GitHub API integration
+- Dynamic projects section
+- Contact form
+- Floating WhatsApp button
+- Modern UI with accessibility in mind
+- SEO optimized
+
+### 🛠️ Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/furlanilucas/portifolio.git
+
+# Enter the directory
+cd portifolio
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit `http://localhost:3000` to see the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Português
 
-## Learn More
+Site de portfólio pessoal construído com tecnologias web modernas, apresentando design responsivo, tema claro/escuro e integração com GitHub.
 
-To learn more about Next.js, take a look at the following resources:
+### 🚀 Tecnologias
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js 14](https://nextjs.org/) - Framework React para produção
+- [React](https://reactjs.org/) - Biblioteca JavaScript para interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário
+- [TypeScript](https://www.typescriptlang.org/) - JavaScript com sintaxe para tipos
+- [next-themes](https://github.com/pacocoursey/next-themes) - Gerenciamento de temas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### ✨ Funcionalidades
 
-## Deploy on Vercel
+- Design responsivo para todos os dispositivos
+- Tema claro/escuro com transições suaves
+- Integração com API do GitHub
+- Seção de projetos dinâmica
+- Formulário de contato
+- Botão flutuante do WhatsApp
+- Interface moderna com foco em acessibilidade
+- Otimizado para SEO
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🛠️ Instalação
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+# Clone o repositório
+git clone https://github.com/furlanilucas/portifolio.git
+
+# Entre no diretório
+cd portifolio
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+```
+
+Acesse `http://localhost:3000` para ver a aplicação.
+
+---
+
+## 📝 License/Licença
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
